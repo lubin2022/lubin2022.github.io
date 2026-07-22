@@ -11,7 +11,7 @@ profile:
   more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,6 +27,10 @@ latest_posts:
 I received my B.E. degree in the College of Electrical and Information Engineering, Hunan University, Changsha, China, in 2022. I am currently pursuing the ph.D degree in the College of Infoamation Science and Electronic Engineering at Zhejiang University, Hangzhou, China.
 
 My research interests lies in collaborative perception, 3D scene understanding, multimodal learning, and vision-language models.
+
+Email: lubin2022@zju.edu.cn
+
+Address: No. 38, Zheda Road
 
 ## Academic Service
 
